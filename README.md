@@ -1,16 +1,5 @@
 # VENDING-MACHINE
 
-
- ######    ######          ######## ##     ## ########         ##     ##    ###     ######  ##    ## ######## ########  
-##    ##  ##    ##            ##    ##     ## ##               ##     ##   ## ##   ##    ## ##   ##  ##       ##     ## 
-##        ##                  ##    ##     ## ##               ##     ##  ##   ##  ##       ##  ##   ##       ##     ## 
-##   ####  ######  #######    ##    ######### ######   ####### ######### ##     ## ##       #####    ######   ########  
-##    ##        ##            ##    ##     ## ##               ##     ## ######### ##       ##  ##   ##       ##   ##   
-##    ##  ##    ##            ##    ##     ## ##               ##     ## ##     ## ##    ## ##   ##  ##       ##    ##  
- ######    ######             ##    ##     ## ########         ##     ## ##     ##  ######  ##    ## ###
- 
- 
-
 A vending machine is an automated machine
 That provides items such as snacks, beverages, cigarettes and lottery tickets to consumers after cash, a credit card, or a specially designed card is inserted into the machine.
 
